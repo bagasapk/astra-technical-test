@@ -1,0 +1,6 @@
+[submodule "astrapay-spring-boot-external"]
+	path = astrapay-spring-boot-external
+	url = https://github.com/bagasapk/astrapay-spring-boot-external.git
+[submodule "notes-frontend"]
+	path = notes-frontend
+	url = https://github.com/bagasapk/notes-frontend.git
